@@ -1,10 +1,10 @@
-#**favorite series** 
+# **favorite series** 
 
 1. Stranger things
 2. Wanda Vision
 3. Moon Embracing The Sun
 
-##*favorite movie*
+## *favorite movie*
 
  - marvels
  - ms. marvels
