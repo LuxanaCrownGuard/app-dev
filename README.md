@@ -1,2 +1,11 @@
-# app-dev
-my first repository 
+favorite series 
+
+```
+{
+
+"Stranger things":
+"Wanda Vision":
+"Moon Embracing The Sun":
+
+}
+```  
